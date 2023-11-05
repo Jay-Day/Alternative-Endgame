@@ -1,2 +1,2 @@
 # Alternative-Endgame
-A collection of a ton of Twinking information across expansions and brackets.
+A collection of World of Warcraft Twinking information across expansions and brackets.
