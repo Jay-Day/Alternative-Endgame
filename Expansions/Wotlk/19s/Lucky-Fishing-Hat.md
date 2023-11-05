@@ -1,16 +1,9 @@
-The Stranglethorn Fishing Extravaganza
+# The Stranglethorn Fishing Extravaganza
 Ripped most of this information from @Sponsor's original guide, thank you for the legwork my friend!​
-
 
 Wondering how to get the suave and stylish Lucky Fishing Hat? This guide is not magic, it will not increase the drop chance of Keefer's Angelfish, nor will it influence the Gods of Tastyfish pools from swirling up to your feet.
 
-However, in this guide I will explain:
-Stranglethorn Fishing Extravaganza 101
-Getting ready for Sunday
-Pool locations
-Meeting the fishies
-Some Numbers
-1. Stranglethorn Fishing Extravaganza 101
+## Stranglethorn Fishing Extravaganza 101
 
 The Stranglethorn Fishing Extravaganza is a weekly fishing competition that takes place in the entire Stranglethorn Vale zone.
 Once the server clock dings 2:00 PM the tournament begins and pools of Speckled Tastyfish begin to spawn.
@@ -22,7 +15,7 @@ Hook of the Master Angler
 High Test Eternium Fishing Line
 But as a twink, none of these matter to us.
 
-2. Getting Ready for Sunday
+## Getting Ready for Sunday
 
 Things you'll need
 Minimum 1 Fishing skill (This changed to 1 in Wrath)
@@ -30,16 +23,19 @@ A fishing pole
 A buddy to protect/secure fishing nodes (recommended but not required)
 The "Find Fish" tracking ability (recommended but not required)
 These Waterlogged Wreckage pools spawn all over STV as well and have a pretty good chance to drop Iron Bound Trunks, which have chance to drop the Weather Beaten-Journal which can teach you the "Find Fish" ability which will give you the ability to see pools on your minimap!
+![1679256224837](https://github.com/Jay-Day/Alternative-Endgame/assets/25331761/68144886-4524-4e32-bf79-acff147fe8c4)
 
-1679256224837.png
-1679256243264.png1679256320557.png
-1679256447430.png
+![1679256243264](https://github.com/Jay-Day/Alternative-Endgame/assets/25331761/d4253568-bfc3-46cc-a39b-dfa6bd33bb04)
+![1679256320557](https://github.com/Jay-Day/Alternative-Endgame/assets/25331761/5d7b3b6f-0da7-43a8-b498-9fd50ec28519)
+![1679256447430](https://github.com/Jay-Day/Alternative-Endgame/assets/25331761/481dfe8c-6a03-4f16-95dd-feabc9addef4)
 
-3. Pool Locations
+
+## Pool Locations
 
 Once you have arrived in Stranglethorn Vale you will realize how vast the coastline is. To simplify things for all of you, here is a map of where Speckled Tasty Fish pools spawn:
 
-1679009275791.png
+![1679009275791](https://github.com/Jay-Day/Alternative-Endgame/assets/25331761/3380e258-15f6-4aa1-a723-a60972a5fae2)
+
 
 The yellow line indicates where you can fish when you have a buddy who can protect your twink. You can always solo it at your own risk, of course. There is not a "better" coast to fish on. It really comes down to preference. Western coast has mainly melee mobs, while the east coast has Defias Mages.
 
@@ -47,15 +43,15 @@ The green circle (north west corner) indicates the location of Yojamba Isle. If 
 
 The blue line is pretty safe for the most part, there are pirates and other mobs at either end but I have fished here without a bodyguard plenty of times and done perfectly fine.
 
-4. Meeting The Fishies
+## Meeting The Fishies
 
 The Three rare fish you'll come across are
 1. Keefer's Angelfish
 2. Dezian Queenfish
 3. Brownell's Blue Striped Racer
-These three guys are very hard to come by as they all roughly hover around a 0.1% drop rate. Although these fish all seem so desirable, the most popular one amongst twinks is Keefer's Angelfish. This fish is the criteria to obtain the Lucky Fishing Hat!
+These three are very hard to come by as they all roughly hover around a 0.1% drop rate. Although these fish all seem so desirable, the most popular one amongst twinks is Keefer's Angelfish. This fish is the criteria to obtain the Lucky Fishing Hat!
 
-5. Some Numbers (Keefer's Angelfish)
+## Some Numbers (Keefer's Angelfish)
 
 Keefer's Angelfish: 0.25% (1 in every 400 tastyfish)
 
