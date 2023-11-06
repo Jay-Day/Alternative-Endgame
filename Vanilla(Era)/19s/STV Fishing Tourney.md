@@ -1,44 +1,25 @@
-Join XPOFF Discord Here
 
-
-
-*****Classic WoW*****
-
-
-
-The Stranglethorn Fishing Extravaganza 
-
-
-
+# The Stranglethorn Fishing Extravaganza 
 
 
 Hello fishermen and fisherladies!
 
-
-
-First off, I would like to thank everyone for their continuous support for this guide, as it is my most worked piece on XpOff. Some of you will notice this guide has drastically changed, as I have completely reworked this guide to be PURELY for Classic WoW. I realized this guide has been out of date for Retail WoW (currently patch 8.3) and the event itself is somewhat irrelevant to twinks now. Have a good read :)
-
-
-
 It is now time to finally fish for our Lucky Fishing Hats and Nat Pagle's Extreme Anglin' Boots! Whether you are veteran twinks, private server experts, or beginner twinks, I truly hope everyone will find something helpful in this guide. Hopefully after this guide, you will have a clear idea of when, where and what to do next Sunday during the Stranglethorn Fishing Extravaganza. This guide is not magic, it will not increase the drop chance of Keefer's Angelfish, nor will it influence the Gods of Tastyfish pools from swirling up to your feet.
 
-
-
 However, in this guide I will explain:
-
-Stranglethorn Fishing Extravaganza 101
-The process of getting ready
-Pool locations
-Meeting the fishies
-Lucky Fishing Hat & Nat Pagle's Extreme Anglin' Boots
-Where should I fish?
-I hope you guys have a good, and knowledgeable read :)
+- Stranglethorn Fishing Extravaganza 101
+- The process of getting ready
+- Pool locations
+- Meeting the fishies
+- Lucky Fishing Hat & Nat Pagle's Extreme Anglin' Boots
+- Where should I fish?
 
 
 
 
 
-1. Stranglethorn Fishing Extravaganza 101
+
+## 1. Stranglethorn Fishing Extravaganza 101
 
 
 
@@ -48,12 +29,12 @@ To begin, the Stranglethorn Fishing Extravaganza is a weekly fishing competition
 
 Completing the fishing tournament quest (Grand Prize!) will earn you a choice to one of the following prizes:
 
-Arcanite Fishing Pole
-Hook of the Master Angler
-High Test Eternium Fishing Line
+- Arcanite Fishing Pole
+- Hook of the Master Angler
+- High Test Eternium Fishing Line
 
 
-2. The Process of Getting Ready
+## 2. The Process of Getting Ready
 
 
 
@@ -69,16 +50,13 @@ Once you have gotten all this, head down to Booty Bay by either swimming from We
 
 
 
-3. Pool Locations
+## 3. Pool Locations
 
 
 
 Once you have arrived in Stranglethorn Vale you will realize how vast the coastline is. To simplify things for all of you, here is a map of where Speckled Tasty Fish pools spawn:
 
-
-
-![Alt text](image.png)
-
+![image](https://github.com/Jay-Day/Alternative-Endgame/assets/25331761/9d75f089-3c7e-4c0a-9708-532c2b811f77)
 
 The yellow line indicates where you can fish when you have a buddy who can protect your twink. You can always solo it at your own risk, of course. There is not a "better" coast to fish on. It really comes down to preference. Western coast has mainly melee mobs, while the east coast has Defias Mages. 
 
@@ -96,7 +74,7 @@ At this point, all that is left to do is cast away and hope for some rare fish! 
 
 
 
-4. Meeting The Fishies
+## 4. Meeting The Fishies
 
 
 
@@ -104,7 +82,7 @@ While fishing for your 40 tastyfish, you may come across three rare fish. Keefer
 
 
 
-5. Lucky Fishing Hat & Nat Pagle's Extreme Anglin' Boots
+## 5. Lucky Fishing Hat & Nat Pagle's Extreme Anglin' Boots
 
 
 
@@ -128,13 +106,12 @@ If you are here to get your BiS stam boots, you will be fishing for Brownell's B
 
 
 
-6.Where should I fish?
+## 6.Where should I fish?
 
 
 
-Map provided by [USER=44212]@cathy[/USER]
+![image](https://github.com/Jay-Day/Alternative-Endgame/assets/25331761/d8b84acf-a2f4-49b8-b19d-97202276db8a)
 
-FISHIN.jpg
 
 
 
@@ -158,7 +135,7 @@ On the other hand, if you want a calmer, relaxed approach where you do not mind 
 
 
 
-7. Final Thoughts
+## 7. Final Thoughts
 
 
 
@@ -175,10 +152,6 @@ So with time, patience and a little bit of luck, you will be rewarded with what 
 
 
 Happy fishing!
-
-
-
-Updated for Classic - 20/04/08
 
 
 
